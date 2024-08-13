@@ -3,11 +3,13 @@
     --cinza-secundario: #4edbc8;
     --botao-azul: #aba6fd;
     --cor-de-fundo: #000000;
+    --fonte-principal:'explora';
 }
 
 body {
     background-color: var(--cor-de-fundo);
     color: var(--branco-principal);
+    
 }
 
 * {
