@@ -16,7 +16,7 @@ body {
 }
 
 .principal {
-    background-image: url(https://images.app.goo.gl/oanj1oxQupCRcVSSA);
+    background-image: url("https://images.app.goo.gl/oanj1oxQupCRcVSSA");
     background-repeat: no-repeat;
     background-size: contain;
 }
